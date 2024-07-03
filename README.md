@@ -28,7 +28,9 @@ PASSO2
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 Criar as seguintes pastas
+
 ![image](https://github.com/MAugusto89/cpw4Relebrando/assets/69408213/7186c405-8243-4899-9d5c-2720e6bd6b1b)
+
 Criar os arquivos dentro da pasta SentenceInput
 ![image](https://github.com/MAugusto89/cpw4Relebrando/assets/69408213/122d796f-d896-428d-9e4b-8b6574223869)
 ---index.tsx
